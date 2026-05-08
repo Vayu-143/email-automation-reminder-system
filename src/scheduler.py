@@ -1,9 +1,11 @@
 import schedule
 import time
 
-def run_scheduler(job_function):
+def start_scheduler(job_function):
 
-    schedule.every(10).seconds.do(job_function)
+    schedule.every().day.at(
+        "09:00"
+    ).do(job_function)
 
     print("Scheduler started...")
 

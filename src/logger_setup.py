@@ -3,7 +3,10 @@ import os
 
 def setup_logger():
 
-    os.makedirs("logs", exist_ok=True)
+    os.makedirs(
+        "logs",
+        exist_ok=True
+    )
 
     logging.basicConfig(
         filename="logs/automation.log",
