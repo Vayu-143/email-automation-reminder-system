@@ -1,0 +1,14 @@
+Hello {name},
+
+This is an automated reminder regarding:
+
+Subject: {subject}
+
+Reminder Date: {reminder_date}
+
+Department: {department}
+
+Please take the necessary action.
+
+Thank You,
+Automation Team

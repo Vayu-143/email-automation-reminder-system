@@ -1,0 +1,4 @@
+2026-05-08 17:47:50,548 - INFO - john@example.com -> DRY_RUN
+2026-05-08 17:47:50,550 - INFO - alice@example.com -> DRY_RUN
+2026-05-08 17:47:50,552 - INFO - michael@example.com -> DRY_RUN
+2026-05-08 17:47:50,555 - INFO - sophia@example.com -> DRY_RUN

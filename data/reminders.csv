@@ -1,0 +1,5 @@
+name,subject,reminder_date,message_type
+John Doe,Interview Reminder,2026-05-10,HR
+Alice Smith,Payment Reminder,2026-05-11,Finance
+Michael Johnson,Task Deadline Reminder,2026-05-12,Operations
+Sophia Brown,Training Session Reminder,2026-05-13,Training
